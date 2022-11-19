@@ -17,10 +17,10 @@ My Demtal Buddy is consists of six sections that are like Home, About Us, Servic
 Static Web Apps, Web Apps
 
 ## Azure Link
-https://thankful-sky-02704ea10.1.azurestaticapps.net/
+ https://ganithasri.github.io/Dental-Website/
 
 ## Github Page Link
-https://yashbhadiyadra.github.io/Future-Ready-Talent-Virtual-Internship-Project/
+
 
 ## Snapshot of Website
 Home Page
